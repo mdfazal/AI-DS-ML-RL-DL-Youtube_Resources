@@ -1,7 +1,7 @@
 # ML-DL-DS_Youtube_Resources
 some really important Youtube Channels in the field of AI/ML/RL/DS and Mathematics behind them are shared here for everyone who is interested. 
 So some really important Youtube Channels in the field of AI/ML/RL/DS are:-
-Sentdex  https://www.youtube.com/user/sentdex
+Sentdex  https://www.youtube.com/user/sentdex </b>
 deeplizard https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw
 3Blue1Brown https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
 Tech With Tim https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg
