@@ -1,5 +1,7 @@
 # ML-DL-DS_Youtube_Resources
-## Some really important Youtube Channels in the field of AI/ML/RL/DS and Mathematics behind them are shared here for everyone who is interested. The purpose to share this is so as to get more people aware about all the free resources out there by some of the best People, Researchers, Colleges and Companies.
+## Please don't forget to star the repo and do contribute if you know any other free video resources.
+
+### Some really important Youtube Channels in the field of AI/ML/RL/DS and Mathematics behind them are shared here for everyone who is interested. The purpose to share this is so as to get more people aware about all the free resources out there by some of the best People, Researchers, Colleges and Companies. I have purposely not added Coursera, Udacity, Edx, Datacamp, Pluralsight, Dataquest, Lynda/LinkedIn learning etc since they are not entirely free. Udacity does provide some free courses and Edx and Coursera lets audit their courses.      
 ### So some really important Youtube Channels in the field of AI/ML/RL/DS are:-
 * [Sentdex](https://www.youtube.com/user/sentdex "Sentdex")
 * [deeplizard](https://www.youtube.com/channel/UC4UJ26WkceqONNF5S26OiVw "deeplizard")
@@ -33,4 +35,5 @@
 * [stanfordonline](https://www.youtube.com/user/stanfordonline "MITCSAIL")
 * [Facebook AI](https://www.youtube.com/channel/UC5qxlwEKM7-5YZudb24l0bg "MITCSAIL")
 * [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch "Microsoft Research")
+
 IF YOU KNOW SOME OTHER YOUTUBE CHANNEL THEN FEEL FREE TO ADD BELOW IN THE COMMENTS.
