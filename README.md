@@ -27,6 +27,7 @@
 * [CloudxLab](https://www.youtube.com/channel/UC8mJ6DL1Q32UWyJUceoO8Jw "CloudxLab")
 * [Alexander Amini](https://www.youtube.com/user/Zan560 "Alexander Amini")
 * [Jeff Heaton](https://www.youtube.com/user/HeatonResearch "Jeff Heaton")
+* [Brandon Rohrer](https://www.youtube.com/user/BrandonRohrer/featured "Brandon Rohrer")
 * [PyTorch](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw "Jeff Heaton")
 * [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer "StatQuest with Josh Starmer")
 * [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A "OpenAI")
