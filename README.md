@@ -11,6 +11,7 @@
 * [Tech With Tim](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg "Tech With Tim")
 * [Corey Schafer](https://www.youtube.com/user/schafer5 "Corey Schafer")
 * [Data School](https://www.youtube.com/user/dataschool "Data School")
+* [Geek's Lesson](https://www.youtube.com/channel/UCKXx22vOENUyHrVAADq7Z_g/featured "Geek's Lesson")
 * [Two Minute Papers](https://www.youtube.com/user/keeroyz "Two Minute Papers")
 * [Welch Labs](https://www.youtube.com/user/Taylorns34 "Welch Labs")
 * [Luis Serrano](https://www.youtube.com/channel/UCgBncpylJ1kiVaPyP-PZauQ "Luis Serrano")
