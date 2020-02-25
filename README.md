@@ -52,3 +52,4 @@
 * [Databricks](https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA/playlists "Databricks")
 * [Learn Data Science](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A "Learn Data Science")
 * [Bilkent Online Courses](https://www.youtube.com/channel/UCptPwdatSMCH55IGgC36CIg/playlists "Bilkent Online Courses")
+* [Paul G. Allen School](https://www.youtube.com/user/UWCSE/playlists?shelf_id=16&sort=dd&view=50 "Paul G. Allen School")
