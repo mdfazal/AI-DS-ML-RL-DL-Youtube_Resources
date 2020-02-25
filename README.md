@@ -50,4 +50,4 @@
 * [Preserve Knowledge](https://www.youtube.com/user/Charleshche "Preserve Knowledge")
 * [TTIC](https://www.youtube.com/channel/UCt0xPdFngeYoHtzWQjF7YsQ/videos "TTIC")
 * [Databricks](https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA/playlists "Databricks")
-
+* [Learn Data Science](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A "Learn Data Science")
