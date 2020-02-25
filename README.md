@@ -39,4 +39,7 @@
 * [stanfordonline](https://www.youtube.com/user/stanfordonline "MITCSAIL")
 * [Facebook AI](https://www.youtube.com/channel/UC5qxlwEKM7-5YZudb24l0bg "MITCSAIL")
 * [Microsoft Research](https://www.youtube.com/user/MicrosoftResearch "Microsoft Research")
-
+* [mathematicalmonk](https://www.youtube.com/channel/UCcAtD_VYwcYwVbTdvArsm7w "mathematicalmonk")
+* [Nando de Freitas](https://www.youtube.com/user/ProfNandoDF/videos "Nando de Freitas")
+* [CS188Fall2013](https://www.youtube.com/channel/UCshmLD2MsyqAKBx8ctivb5Q "CS188Fall2013")
+* [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw "Andrej Karpathy")
