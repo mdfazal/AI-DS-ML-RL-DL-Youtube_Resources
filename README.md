@@ -49,4 +49,5 @@
 * [SuperDataScience](https://www.youtube.com/channel/UCHBWJGoZMkhJyElgvuN1U1w/playlists "SuperDataScience")
 * [Preserve Knowledge](https://www.youtube.com/user/Charleshche "Preserve Knowledge")
 * [TTIC](https://www.youtube.com/channel/UCt0xPdFngeYoHtzWQjF7YsQ/videos "TTIC")
+* [Databricks](https://www.youtube.com/channel/UC3q8O3Bh2Le8Rj1-Q-_UUbA/playlists "Databricks")
 
