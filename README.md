@@ -43,3 +43,10 @@
 * [Nando de Freitas](https://www.youtube.com/user/ProfNandoDF/videos "Nando de Freitas")
 * [CS188Fall2013](https://www.youtube.com/channel/UCshmLD2MsyqAKBx8ctivb5Q "CS188Fall2013")
 * [Andrej Karpathy](https://www.youtube.com/channel/UCPk8m_r6fkUSYmvgCBwq-sw "Andrej Karpathy")
+* [Institute for Pure & Applied Mathematics (IPAM)](https://www.youtube.com/user/IPAMUCLA/playlists "Institute for Pure & Applied Mathematics (IPAM)")
+* [Creative Destruction Lab](https://www.youtube.com/channel/UC5BWhYrWsJgZiEi4n36DTwQ/playlists "Creative Destruction Lab")
+* [Artificial Intelligence - All in One](https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg/playlists "Artificial Intelligence - All in One")
+* [SuperDataScience](https://www.youtube.com/channel/UCHBWJGoZMkhJyElgvuN1U1w/playlists "SuperDataScience")
+* [Preserve Knowledge](https://www.youtube.com/user/Charleshche "Preserve Knowledge")
+* [TTIC](https://www.youtube.com/channel/UCt0xPdFngeYoHtzWQjF7YsQ/videos "TTIC")
+
