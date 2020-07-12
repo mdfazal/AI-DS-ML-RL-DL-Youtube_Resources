@@ -5,7 +5,7 @@
 ## RL = Reinforcement Learning
 ## DL = Deep Learning 
 
-## Please don't forget to star the repo while forking it and do contribute if you know any other free video resources.
+## Please DO STAR THE REPO while FORKING it and do contribute if you know any other free video resources.
 
 ### Some really important Youtube Channels in the field of AI-ML-RL-DS and Mathematics behind them are shared here for everyone who is interested. The purpose to share this is so as to get more people aware about all the free resources out there by some of the best People, Researchers, Colleges and Companies. I have purposely not added Coursera, Udacity, Edx, Datacamp, Pluralsight, Dataquest, Lynda/LinkedIn learning etc since they are not entirely free. Udacity does provide some free courses and Edx and Coursera lets audit their courses.   
 
